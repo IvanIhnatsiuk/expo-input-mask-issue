@@ -3591,6 +3591,11 @@ react-is@^18.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.3.1.tgz#e83557dc12eae63a99e003a46388b1dcbb44db7e"
   integrity sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==
 
+react-native-advanced-input-mask@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-advanced-input-mask/-/react-native-advanced-input-mask-1.4.0.tgz#db551cf5cd3573b17e7caa72c02d653294526049"
+  integrity sha512-IcYkneaBMIWv4B1O/7Rj8B/lpOu1sdUs8QVL54omrg2dwTf7hDL8m6RqA2iTU/Fc+M4YDv/c4lkuy2i0JwlG9A==
+
 react-native-edge-to-edge@1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/react-native-edge-to-edge/-/react-native-edge-to-edge-1.6.0.tgz#2ba63b941704a7f713e298185c26cde4d9e4b973"
